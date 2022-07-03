@@ -1,0 +1,19 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "My first project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sauravsilawat/my-todo-app.git"
+  },
+  "author": "Saurav Silawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sauravsilawat/my-todo-app/issues"
+  },
+  "homepage": "https://github.com/sauravsilawat/my-todo-app#readme"
+}
